@@ -1,0 +1,3 @@
+- Set TFE_TOKEN
+- run `terraform init -var="token=$TFE_TOKEN"` 
+- 
